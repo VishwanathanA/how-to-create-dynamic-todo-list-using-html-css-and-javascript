@@ -1,0 +1,58 @@
+.all{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px;
+    margin: 200px 520px;
+    background-color: rgb(21, 204, 21);
+}
+h2{
+    color:black;
+}
+p{
+    color: rgba(0, 0, 0, 0.571);
+}
+.all .box{
+    background-color: white;
+    color: white;
+    border-radius: 8px;
+    padding: 30px;
+    padding-left: 50px;
+}
+.all .box p,i{
+    display: inline;
+}
+.all .box i{
+    margin-right: 5px;
+}
+.all .row{
+    background-color:yellowgreen;
+    color:antiquewhite;
+    
+}
+.list{
+    margin: 20px;
+}
+button{
+    border-radius: 8px;
+}
+.add{
+    width: 50px;
+}
+.add,.clear{
+    background-color: rgb(17, 119, 188);
+    color: white;
+    padding: 2px;
+}
+.emp{
+    background-color: rgb(139, 9, 9);
+    color: white;
+    width: 100px;
+}
+.save{
+    background-color: rgb(61, 233, 61);
+    color: white;
+    width: 100px;
+}
+.clear{
+    width: 120px;
+}
