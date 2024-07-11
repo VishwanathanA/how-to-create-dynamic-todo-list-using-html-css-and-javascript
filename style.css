@@ -47,13 +47,8 @@ button{
 .emp{
     background-color: rgb(139, 9, 9);
     color: white;
-    width: 100px;
 }
 .save{
     background-color: rgb(61, 233, 61);
     color: white;
-    width: 100px;
-}
-.clear{
-    width: 120px;
 }
