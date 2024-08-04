@@ -17,7 +17,7 @@ p{
     border-radius: 8px;
     padding: 30px;
     padding-left: 50px;
-    width:450px;
+    width: fit-content;
 }
 .all .box p,i{
     display: inline;
@@ -35,6 +35,7 @@ p{
 }
 button{
     border-radius: 8px;
+    border: none;
 }
 .add{
     width: 50px;
@@ -51,4 +52,17 @@ button{
 .save{
     background-color: rgb(61, 233, 61);
     color: white;
+}
+.clear{
+    width: 120px;
+}
+.foot{
+    display: flex;
+}
+.foot button{
+    width: 100%;
+}
+input{
+    width: 70%;
+    border-radius: 8px;
 }
